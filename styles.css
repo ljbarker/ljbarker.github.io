@@ -50,7 +50,7 @@ main {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  background-image: url("../assets/profile-photo.jpeg");
+  background-image: url("./profile-photo.jpeg");
 }
 
 .nav-list {
