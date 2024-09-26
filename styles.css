@@ -41,6 +41,18 @@ main {
   /* border: solid red; */
 }
 
+.logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 10px 0px 10px 0px;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-image: url("./profile-photo.jpeg");
+}
+
 .nav-list {
   display: flex;
   flex-direction: row;
